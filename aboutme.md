@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Cosmologist at the University of Coimbra
 ---
 
 My name is Inigo Montoya. I have the following qualities:
@@ -11,6 +11,10 @@ My name is Inigo Montoya. I have the following qualities:
 
 What else do you need?
 
-### My story
+### “THE UNIVERSE IS THE DREAM OF ITSELF”, FERNANDO PESSOA
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Asking questions about the world naturally led me to science. I ended up graduating in Physics and doing a Ph.D. in Cosmology. I am very curious about the origins of the universe. Where did it come from? How did it look like when it was very dense? Is the primordial universe governed by the same laws as the one today? These are some of the questions which motivate my research..
+
+### “THE UNIVERSE IS THE DREAM OF ITSELF”, FERNANDO PESSOA
+
+Asking questions about the world naturally led me to science. I ended up graduating in Physics and doing a Ph.D. in Cosmology. I am very curious about the origins of the universe. Where did it come from? How did it look like when it was very dense? Is the primordial universe governed by the same laws as the one today? These are some of the questions which motivate my research..
