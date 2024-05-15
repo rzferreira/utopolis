@@ -5,13 +5,10 @@ subtitle: Cosmologist at the University of Coimbra
 ---
 
 
-### “THE UNIVERSE IS THE DREAM OF ITSELF”, FERNANDO PESSOA
+### “THE UNIVERSE IS THE DREAM OF ITSELF”, 
+### FERNANDO PESSOA
 
 Asking questions about the world naturally led me to science. I ended up graduating in Physics and doing a Ph.D. in Cosmology. I am very curious about the origins of the universe. Where did it come from? How did it look like when it was very dense? Is the primordial universe governed by the same laws as the one today? These are some of the questions which motivate my research..
-
-### RESEARCH OUTPUT
-
-Check out here my publications and their scientific impact: "https://inspirehep.net/authors/1118660?ui-citation-summary=true"
 
 ### RESEARCH EXPERIENCE
 
