@@ -5,12 +5,12 @@ subtitle: Cosmologist at the Univ. of Coimbra (Portugal)
 ---
 
 
-### “THE UNIVERSE IS THE DREAM OF ITSELF”, 
-### FERNANDO PESSOA
+### “The universe is the fream of itself”, 
+### Fernando Pessoa
 
 Asking questions about the world naturally led me to science. I ended up graduating in Physics and doing a Ph.D. in Cosmology. I am very curious about the origins of the universe. Where did it come from? How did it look like when it was very dense? Is the primordial universe governed by the same laws as the one today? These are some of the questions which motivate my research..
 
-### RESEARCH EXPERIENCE
+### Research Experience
 
 2023/current, Centro de Física da Univ. Coimbra
 2020/2023, Institute for High-Energy Physics (IFAE) – Barcelona
