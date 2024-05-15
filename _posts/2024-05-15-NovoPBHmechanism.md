@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AS ÚLTIMAS DO COSMOS (IN PT)
+title: As últimas do cosmos (in pt)
 subtitle: Novo mecanismo de formação de buracos negros primordiais
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
