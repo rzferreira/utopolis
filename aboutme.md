@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Cosmologist at the University of Coimbra
+subtitle: Cosmologist at the Univ. of Coimbra (Portugal)
 ---
 
 
