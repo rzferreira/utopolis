@@ -2,7 +2,7 @@
 layout: post
 title: Nova descoberta revolucionaria de ondas gravitacionais
 #subtitle: 
-tags: [test]
+tags: [ondas gravitacionais]
 comments: true
 mathjax: true
 #author: Bill Smith
