@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Esquissos
-subtitle:  TRABALHEMOS POR PERTURBAR AS ALMAS
+title: TRABALHEMOS POR PERTURBAR AS ALMAS
+#subtitle:  TRABALHEMOS POR PERTURBAR AS ALMAS
 #cover-img: /assets/img/path.jpg
 #thumbnail-img: /assets/img/thumb.png
 #share-img: /assets/img/path.jpg
