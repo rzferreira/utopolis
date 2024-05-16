@@ -4,7 +4,7 @@ title: As últimas do cosmos (in pt)
 subtitle: Novo mecanismo de formação de buracos negros primordiais
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [buracos negros primordiais]
 comments: true
 mathjax: true
 #author: Bill Smith
