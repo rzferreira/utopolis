@@ -2,10 +2,10 @@
 layout: post
 title: Esquissos
 subtitle:  TRABALHEMOS POR PERTURBAR AS ALMAS
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
+#cover-img: /assets/img/path.jpg
+#thumbnail-img: /assets/img/thumb.png
+#share-img: /assets/img/path.jpg
+tags: [divagações]
 #author: Sharon Smith and Barry Simpson
 ---
 
