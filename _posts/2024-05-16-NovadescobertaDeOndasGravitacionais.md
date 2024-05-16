@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Novo mecanismo de formação de buracos negros primordiais
-#subtitle: Novo mecanismo de formação de buracos negros primordiais
+title: Nova descoberta revolucionaria de ondas gravitacionais
+#subtitle: 
 tags: [test]
 comments: true
 mathjax: true
