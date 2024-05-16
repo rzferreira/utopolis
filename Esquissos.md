@@ -8,6 +8,6 @@ Aqui deixo algumas divagações, aparentemente soltas, sobre a sociedade que nos
 Não é recomendado que concorde com a minha visão do mundo. Este é um exercício de desconstrução.
 
 
-### [16 May 2024 - TRABALHEMOS POR PERTURBAR AS ALMAS](https://rzferreira.github.io/utopolis/2024-05-15-PerturbarAsAlmas/)
+### [04/07/2024 - TRABALHEMOS POR PERTURBAR AS ALMAS](https://rzferreira.github.io/utopolis/2024-05-15-PerturbarAsAlmas/)
 
 
