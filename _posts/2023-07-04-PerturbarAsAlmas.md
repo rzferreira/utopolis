@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TRABALHEMOS POR PERTURBAR AS ALMAS
+title: Trabalhemos por perturbar as almas
 #subtitle:  TRABALHEMOS POR PERTURBAR AS ALMAS
 #cover-img: /assets/img/path.jpg
 #thumbnail-img: /assets/img/thumb.png
