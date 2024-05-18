@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Esquissos (in pt)
+title: Esquissos
 subtitle:
 ---
 
