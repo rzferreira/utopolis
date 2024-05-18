@@ -21,8 +21,8 @@ author: Ricardo Z. Ferreira
 
 navbar-links:
   About Me: "aboutme"
-  Esquissos: "Esquissos"
-  As últimas do cosmos: "AsUltimasDoCosmos"
+  Esquissos (in pt): "Esquissos"
+  As últimas do cosmos (in pt): "AsUltimasDoCosmos"
   Research Output:
     - Inspire-hep: "https://inspirehep.net/authors/1118660?ui-citation-summary=true"
     - Google Scholar: "https://scholar.google.com/citations?user=c7yBgewAAAAJ" 
