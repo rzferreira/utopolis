@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Esquissos
-subtitle: (in pt)
+title: Esquissos (in pt)
+subtitle:
 ---
 
 Aqui deixo algumas divagações, aparentemente soltas, sobre a sociedade que nos rodeia.
