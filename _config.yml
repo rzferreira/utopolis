@@ -24,7 +24,8 @@ navbar-links:
   Research Output:
     - Inspire-hep: "https://inspirehep.net/authors/1118660?ui-citation-summary=true"
     - Google Scholar: "https://scholar.google.com/citations?user=c7yBgewAAAAJ" 
-  Research Clips: "ResearchClips"
+  Research Clips: 
+    - New discovery of Gravitational Waves: "https://rzferreira.github.io/utopolis/2024-05-21-ResearchClip-GWsAtPTAs/"
   Esquissos (in pt): "Esquissos"
   As últimas do cosmos (in pt): "AsUltimasDoCosmos"
     
