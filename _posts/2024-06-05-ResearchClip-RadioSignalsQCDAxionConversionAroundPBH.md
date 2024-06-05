@@ -9,7 +9,7 @@ mathjax: true
 ---
 
 
-With Ángel Gil Muyor, a PhD student at IFAE (Barcelona), we showed (2404.12437) that a QCD axion cloud around black holes can resonantly convert to radio photons that might be detectable at the LOFAR radio telescope.
+With Ángel Gil Muyor, a PhD student at IFAE (Barcelona), we showed [here](https://arxiv.org/abs/2404.12437) that a QCD axion cloud around black holes can resonantly convert to radio photons that might be detectable at the LOFAR radio telescope.
 
 
 **The long story...**
