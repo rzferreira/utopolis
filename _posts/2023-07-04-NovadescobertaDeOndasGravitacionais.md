@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nova descoberta revolucionaria de ondas gravitacionais
+title: Nova descoberta de ondas gravitacionais (in PT)
 #subtitle: 
 tags: [ondas gravitacionais]
 comments: true
