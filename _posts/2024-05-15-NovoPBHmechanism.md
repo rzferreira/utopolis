@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Novo mecanismo de formação de buracos negros primordiais
+title:  Novo mecanismo de formação de buracos negros primordiais (in pt)
 #subtitle: Novo mecanismo de formação de buracos negros primordiais
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
