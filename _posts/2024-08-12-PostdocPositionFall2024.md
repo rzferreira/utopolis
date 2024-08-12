@@ -12,7 +12,7 @@ The Centre for Physics of the University of Coimbra (CFisUC) invites application
 
 The successful candidates are expected to work on the project's tasks, related to Axion Physics and the phenomenology of Topological Defects in the Early Universe. The candidates will work in close collaboration with Dr. Ricardo Z. Ferreira and will be part of an international team and a stimulating scientific environment.
 
-Qualifications:
+_Qualifications_:
 - A PhD in Physics or a closely related field is required at the time of application. The PhD diploma cannot be older than three years.
 - Strong background in Cosmology; experience in Axion Physics and/or Topological Defects is desirable but not mandatory.
 - Demonstrated ability to conduct independent research and collaborate effectively within a research team.
