@@ -26,8 +26,7 @@ navbar-links:
     - sdfsdf:
       - efsfsdf:
     - Google Scholar: "https://scholar.google.com/citations?user=c7yBgewAAAAJ" 
-  Hirings:
-    - Postdoctoral Positions in Particle Physics and Cosmology, "https://rzferreira.github.io/utopolis/2024-08-12-PostdocPositionFall2024/"
+  Hirings: "Hirings"
   Research Clips: 
     - Probing the QCD axion with radio signals: "https://rzferreira.github.io/utopolis/2024-06-05-ResearchClip-RadioSignalsQCDAxionConversionAroundPBH/"
     - New discovery of Gravitational Waves: "https://rzferreira.github.io/utopolis/2024-05-21-ResearchClip-GWsAtPTAs/"
