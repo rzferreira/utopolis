@@ -17,16 +17,16 @@ _Qualifications_:
 - Strong background in Cosmology; experience in Axion Physics and/or Topological Defects is desirable but not mandatory.
 - Demonstrated ability to conduct independent research and collaborate effectively within a research team.
  
-Position Details:
+_Position Details_:
 The position is for one year, with the possibility of an extension depending on external funding. The expected start date is November 1st, 2024, or as soon as possible thereafter.
 Interested candidates should submit the following documents to rzferreira[at]uc.pt:
 
-Curriculum Vitae (CV) including a list of publications.
-Statement of Research Interests outlining relevant experience and expertise.
+- Curriculum Vitae (CV) including a list of publications.
+- Statement of Research Interests outlining relevant experience and expertise.
 
 The subject of the email should contain "Postdoc Position + Candidate name”. Two recommendation letters will be asked at a later stage.
 The deadline for submission is the 15th of September but applications will continue to be considered until the position is filled. 
 
-Contact Information:
+_Contact Information_:
 For further information regarding the position, please write to rzferreira[at]uc.pt.
 For an overview of the research activities at CFisUC please visit (https://cfisuc.fis.uc.pt/).
