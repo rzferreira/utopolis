@@ -12,12 +12,8 @@ Asking questions about the world naturally led me to science. I ended up graduat
 ### Research Experience
 
 2023/current, Centro de Física da Univ. Coimbra
-
 2020/2023, Institute for High-Energy Physics (IFAE) – Barcelona
-
 2018/2020, Nordic Institute for Theoretical Physics (NORDITA) – Stockholm
-
 2016/2018, Institute for Cosmic Sciences (ICCUB) – Barcelona
-
 2015/2016, Center for Cosmology and Particle Physics Phenomenology (CP3-Origins) – Odense
 
