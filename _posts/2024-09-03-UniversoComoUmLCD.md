@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Será o universo rodeado por camadas de LCDs como as nossas televisões?
+title: Será o universo rodeado por camadas de LCDs cósmicos como as nossas televisões?
 #subtitle: 
 tags: [birefringência cósmica]
 comments: true
