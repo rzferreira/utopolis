@@ -2,9 +2,9 @@
 layout: page
 Title: Research Team
 subtitle:
----https://github.com/rzferreira/utopolis/blob/master/ResearchTeam.md
 
 **Current members:**
+
 Luca Caloni, Postdoc (from 2025)
 José Jaime Terente, Postdoc (from 2025)
 Afonso Ávila, MSc, Research Scholarship (from 2025)
