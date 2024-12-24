@@ -2,6 +2,7 @@
 layout: page
 Title: Research Team
 subtitle:
+---
 
 **Current members:**
 
