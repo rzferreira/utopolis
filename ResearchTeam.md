@@ -8,7 +8,6 @@ subtitle:
 
 Luca Caloni, Postdoc (from 2025)
 José Jaime Terente, Postdoc (from 2025)
-
 Afonso Ávila, MSc, Research Scholarship (from 2025)
 
 Daniel Neves, PhD student (supervisor)
