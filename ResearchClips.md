@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Clips
-subtitle: (in pt)
+subtitle:
 ---
 
 ### [05/06/24 - Probing the QCD axion with radio signals](https://rzferreira.github.io/utopolis/2024-06-05-ResearchClip-RadioSignalsQCDAxionConversionAroundPBH/)
