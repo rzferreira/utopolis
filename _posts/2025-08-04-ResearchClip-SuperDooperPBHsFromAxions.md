@@ -29,19 +29,19 @@ However, after inflation, as the universe cools down and the expansion rate decr
 will start oscillating. Quickly, they will realize that in the regions of space, where the axion was diffused
 to the second period, the oscillations will take place around a minimum that is different from the rest of the universe.
 
-Domain walls:
+Domain walls--
 Dividing those regions, there are what physicists call domain walls, extended and dense objects that store a significant
 amount of scalar field energy.
 That was the missing link that we found with respect to some previous work. Because domain walls redshift more slowly with the
 expansion, their relative energy density can increase significantly.
 
-Particle Dark Matter or Primordial Black Holes:
+Particle Dark Matter or Primordial Black Holes--
 Those domain walls survive until their physical radius becomes comparable to the cosmological horizon, 
 the Hubble scale. Afterwards, they typically collapse into the dark matter axion particles unless...
 they are so massive that their would be Schwarzschild radius is larger than the cosmological horizon.
 In such case, the walls collapse into primordial black holes (PBHs).
 
-Super Duper PBHs:
+Super Duper PBHs--
 Primordial Black Holes are already somewhat exotic, but these have an extra layer of strangeness; they are very (very) 
 massive. So massive that they have been called stupendeously large PBHs.
 In fact, their mass is larger than the (TOTAL!) mass of galaxies.
