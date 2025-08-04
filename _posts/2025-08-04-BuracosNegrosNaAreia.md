@@ -11,7 +11,7 @@ mathjax: true
 
 
 Esta é uma história de extremos e contém não só os montros mais pesados e negros que possamos encontrar como também umas
-gigantes redondos com tamanhos super-cosmológicos. E nada disto é ficção científica (vejam [aqui](https://arxiv.org/pdf/2504.07890) )! 
+gigantes redondos com tamanhos super-cosmológicos. E nada disto é ficção científica (vejam [aqui](https://arxiv.org/pdf/2504.07890))! 
 
 Mas de onde é que vêm estas personagens cosmológicas? Vamos por partes. O ponto de partida são umas partículas hipotéticas chamadas axiões que
 que uma boa parte da comunidade científica acredita existirem. Em certos aspetos estes axiões comportam-se como se vivessem no areal da praia. 
