@@ -10,8 +10,8 @@ mathjax: true
 
 
 
-Esta é uma história de extremos e contém não só os montros mais pesados e negros que possamos encontrar como também umas
-gigantes redondos com tamanhos super-cosmológicos. E nada disto é ficção científica (vejam aqui [aqui](https://arxiv.org/pdf/2504.07890))! 
+Esta é uma história de extremos que contém os montros mais pesados e negros que possamos encontrar e uns
+gigantes com tamanhos super-cosmológicos. E nada disto é ficção científica (vejam aqui [aqui](https://arxiv.org/pdf/2504.07890))! 
 
 De onde é que eles estas personagens cosmológicas? Vamos por partes. O ponto de partida são os axiões. Imaginemos que
 os axiões no universo comportam-se como se vivessem no areal da praia. Esticam a toalha, deitam-se na imensidão de
