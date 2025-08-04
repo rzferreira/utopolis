@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Super Duper Primordial Black Holes from Axions 
+title: Super Duper Primordial Black Holes
 #subtitle: 
 tags: [QCD axion]
 comments: true
