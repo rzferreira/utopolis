@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Buracos (Negros) Na Areia, Uma História Por Contar
+title: Buracos (Negros) Na Areia
 #subtitle: 
 tags: [QCD axion]
 comments: true
