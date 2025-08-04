@@ -18,7 +18,7 @@ very (very) massive primordial black holes.
 The search for the QCD axion continues in multiple forms. This time, we asked the question: if axions are present during the period of cosmic
 inflation and the inflationary diffusion is large, what will happen?
 
-Inflationary Diffusion:
+Inflationary Diffusion--
 Gravitational effects during inflation are known to diffuse light (or massless) scalar fields such as the axion. 
 A process that has been famously described by Starobinsky as stochastic. 
 Crucially, and in contrast with other scalar fields, axions have a periodic behavior which can be more formally described 
