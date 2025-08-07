@@ -8,7 +8,7 @@ mathjax: true
 #author: 
 ---
 
-With Miguel Faria, an undergraduate student at U.Coimbra, and Fabrizio Rompineve we showed [here](https://arxiv.org/pdf/2504.07890) 
+With Miguel Faria (U.Coimbra) and Fabrizio Rompineve (IFAE) we showed [here](https://arxiv.org/pdf/2504.07890) 
 that due to inflationary diffusion, the QCD axion can form some extended objects called domain walls which end up forming
 very (very) massive primordial black holes.
 
