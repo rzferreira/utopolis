@@ -26,6 +26,7 @@ navbar-links:
     - Google Scholar: "https://scholar.google.com/citations?user=c7yBgewAAAAJ" 
   Research Team: "ResearchTeam"
   Research Clips: 
+    - Axion Inflation Is Back Again: "https://rzferreira.github.io/utopolis/2026-09-15-ResearchClip-AxionInflation/"
     - Super Duper Primordial Black Holes: "https://rzferreira.github.io/utopolis/2025-08-04-ResearchClip-SuperDooperPBHsFromAxions/"
     - Probing the QCD axion with radio signals: "https://rzferreira.github.io/utopolis/2024-06-05-ResearchClip-RadioSignalsQCDAxionConversionAroundPBH/"
     - New discovery of Gravitational Waves: "https://rzferreira.github.io/utopolis/2024-05-21-ResearchClip-GWsAtPTAs/"
@@ -300,4 +301,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
